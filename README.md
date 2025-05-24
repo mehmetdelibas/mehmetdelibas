@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet Metin Delibas</h1>  
+<h1 align="center">Hi 👋, I'm Mehmet Metin Delibas</h1>
 
 - 🔭 I’m currently working on **C#**  
 

@@ -2,7 +2,7 @@
    
 - 🔭 I’m currently working on **C#**  
 
-- 💬 Ask me about **ASP.NET** 
+- 💬 Ask me about **ASP.NET**   
 
 - 📫 How to reach me **m.metiin7@gmail.com**
 

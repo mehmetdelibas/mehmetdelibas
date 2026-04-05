@@ -31,7 +31,7 @@
 
 <hr>
 
-<h3 align="center">GitHub Contributions</h3>
+<h3 align="center">Sssssss... 🐍</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetdelibas/mehmetdelibas/output/github-contribution-grid-snake-dark.svg">
